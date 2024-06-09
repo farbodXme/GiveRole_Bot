@@ -27,3 +27,5 @@ Replace ROLE_ID with the ID of the role that the bot should respond to.
 
 ## Run the bot:
 ``` python bot.py ```
+
+<img src="https://profile-counter.glitch.me/farbodXme/count.svg" alt="Visitors">
