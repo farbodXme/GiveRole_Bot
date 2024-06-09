@@ -23,8 +23,8 @@
 
 - Configure the bot:
 
-Replace YOUR_BOT_TOKEN with your bot's token.
-Replace ROLE_ID with the ID of the role that the bot should respond to.
+Replace `YOUR_BOT_TOKEN` with your bot's token.
+Replace `ROLE_ID` with the ID of the role that the bot should respond to.
 
 ## Run the bot:
 ``` python bot.py ```
