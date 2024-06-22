@@ -16,7 +16,7 @@
 ## Setup
 - Clone the repository:
 
-```git clone https://github.com/yourusername/discord-role-manager-bot.git ```
+```git clone https://github.com/farbodXme/GiveRole_Bot.git ```
 
 - Install dependencies:
 `pip install discord.py`
